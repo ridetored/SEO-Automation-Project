@@ -11,34 +11,6 @@ Keyword Analysis with N-Grams: Analyze keyword lists with unigrams, bigrams, and
 Group Keywords into Topic Clusters: Automatically group keywords into topic clusters.
 Match Keywords to Predefined Topics: Match keywords to predefined topics for content categorization.
 
-# Project Structure
-# SEO_Automation_Project/
-│
-#├── README.md                # Documentation of the project
-├── requirements.txt          # Python dependencies
-├── main.py                   # Entry point for running scripts
-│
-# ├── scripts/                  # Directory containing all scripts
-│   ├── redirect_map.py
-│   ├── bulk_meta_generator.py
-│   ├── keyword_analysis_ngrams.py
-│   ├── keyword_clustering.py
-│   ├── match_keywords_to_topics.py
-│
-# ├── data/                     # Data inputs required by the scripts
-│   ├── source_urls.txt
-│   ├── target_urls.txt
-│   ├── urls.txt
-│   ├── keywords.txt
-│   ├── topics.txt
-│
-# └── results/                  # Output directory for results
-    ├── redirect_map.csv
-    ├── meta_descriptions.csv
-    ├── ngrams_results.txt
-    ├── clusters.csv
-    ├── matched_keywords.csv
-    
 # Installation
 Prerequisites
 Python 3.7+ installed on your system.
