@@ -1,1 +1,4 @@
-
+https://www.newwebsite.com/product/shoes
+https://www.newwebsite.com/about
+https://www.newwebsite.com/contact-us
+https://www.newwebsite.com/blog/new-post
