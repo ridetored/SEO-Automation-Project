@@ -1,1 +1,4 @@
-
+https://www.oldwebsite.com/product/old-shoes
+https://www.oldwebsite.com/about-us
+https://www.oldwebsite.com/contact
+https://www.oldwebsite.com/blog/post-123
