@@ -12,27 +12,27 @@ Group Keywords into Topic Clusters: Automatically group keywords into topic clus
 Match Keywords to Predefined Topics: Match keywords to predefined topics for content categorization.
 
 # Project Structure
-SEO_Automation_Project/
+# SEO_Automation_Project/
 │
-├── README.md                # Documentation of the project
+#├── README.md                # Documentation of the project
 ├── requirements.txt          # Python dependencies
 ├── main.py                   # Entry point for running scripts
 │
-├── scripts/                  # Directory containing all scripts
+# ├── scripts/                  # Directory containing all scripts
 │   ├── redirect_map.py
 │   ├── bulk_meta_generator.py
 │   ├── keyword_analysis_ngrams.py
 │   ├── keyword_clustering.py
 │   ├── match_keywords_to_topics.py
 │
-├── data/                     # Data inputs required by the scripts
+# ├── data/                     # Data inputs required by the scripts
 │   ├── source_urls.txt
 │   ├── target_urls.txt
 │   ├── urls.txt
 │   ├── keywords.txt
 │   ├── topics.txt
 │
-└── results/                  # Output directory for results
+# └── results/                  # Output directory for results
     ├── redirect_map.csv
     ├── meta_descriptions.csv
     ├── ngrams_results.txt
