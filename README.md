@@ -32,11 +32,11 @@ You can run any of the scripts through main.py by specifying the desired task wi
 python main.py --task redirect
 
 # Available Tasks:
-# redirect: Automates the creation of a redirect map.
-# meta: Bulk generates meta descriptions for URLs.
-# ngrams: Analyzes keywords using N-Grams.
-# clusters: Clusters keywords into topic groups.
-# match: Matches keywords to predefined topics.
+ redirect: Automates the creation of a redirect map.
+ meta: Bulk generates meta descriptions for URLs.
+ ngrams: Analyzes keywords using N-Grams.
+ clusters: Clusters keywords into topic groups.
+ match: Matches keywords to predefined topics.
 
 # Scripts Overview
 # 1. Automate Redirect Map
