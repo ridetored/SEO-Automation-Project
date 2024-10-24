@@ -1,0 +1,13 @@
+This file will list all Python dependencies needed for the project, which can be installed using:
+
+pip install -r requirements.txt
+
+Contents of requirements.txt:
+beautifulsoup4
+polyfuzz
+requests
+pandas
+numpy
+scikit-learn
+spacy
+sumy
